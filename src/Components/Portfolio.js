@@ -129,7 +129,7 @@ function Portfolio() {
 			</div>
 			
 			<div className="load-more text-center mt-4">
-				<a href="javascript:" className="btn btn-default"><i className="fas fa-circle-notch"></i> Load more</a>
+				<a href="/#" className="btn btn-default"><i className="fas fa-circle-notch"></i> Load more</a>
 				<ul className="portfolio-pagination list-inline d-none">
 					<li className="list-inline-item">1</li>
 					<li className="list-inline-item"><a href="works-2.html">2</a></li>
