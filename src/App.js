@@ -5,7 +5,7 @@ import Experience from './Components/Experience'
 import Header from './Components/Header'
 import Hero from './Components/Hero'
 import Mobileheader from './Components/Mobileheader'
-//import Portfolio from './Components/Portfolio'
+import Portfolio from './Components/Portfolio'
 import Skills from './Components/Skills'
 import React from 'react'
 import Thanks from './Components/Thanks'
@@ -20,6 +20,7 @@ function App() {
       <Skills />
       <Experience />
       <Clients />
+      <Portfolio />
       <Contact />
       <Thanks />
       </main>

@@ -6,7 +6,7 @@ import Udemy from '../assets/certificates/Udemy Web Developer Bootcamp.jpg'
 
 function Clients() {
     return (
-        <section id="works" className="shadow-dark background-blue color-white padding-50">
+        <section id="clients" className="shadow-dark background-blue color-white padding-50">
 
         <h2 className="section-title">Certificates</h2>
 
