@@ -1,5 +1,5 @@
 import React from 'react'
-import Logo from '../assets/navbar/me.png'
+import Logo from '../assets/about/cartoonme@2x.png'
 
 export default function Mobileheader() {
     return (
