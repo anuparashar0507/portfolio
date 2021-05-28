@@ -1,5 +1,5 @@
 import React from 'react'
-import Logo from '../assets/navbar/me.png'
+import Logo from '../assets/about/anu3@2x.png'
 function About() {
     return (
         <section id="about" className="shadow-blue white-bg padding">
@@ -16,7 +16,7 @@ function About() {
 					<div className="row my-4">
 						<div className="col-md-6">
 							<p className="mb-2">Name: <span className="text-dark">Anupam Parashar</span></p>
-							<p className="mb-0">Birthday: <span className="text-dark">15 July, 1997</span></p>
+							<p className="mb-0">Birthday: <span className="text-dark">05 July, 1997</span></p>
 						</div>
 						<div className="col-md-6 mt-2 mt-md-0 mt-sm-2">
 							<p className="mb-2">Location: <span className="text-dark">Bhopal, India</span></p>

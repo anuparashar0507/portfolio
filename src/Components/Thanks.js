@@ -1,5 +1,5 @@
 import React from 'react'
-import Me from '../assets/hero/manali.jpeg'
+import Me from '../assets/hero/kasol1@2x.png'
 
 export default function Thanks() {
     return (

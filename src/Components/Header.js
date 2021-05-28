@@ -1,6 +1,6 @@
 import React from 'react'
 
-import Logo from '../assets/navbar/cartoon me.png'
+import Logo from '../assets/about/cartoonme@2x.png'
 
 function Header() {
     return (

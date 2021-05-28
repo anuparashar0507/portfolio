@@ -1,6 +1,6 @@
 import React from 'react'
 
-import Me from '../assets/hero/kasol.png'
+import Me from '../assets/hero/dharmshala1@2x.png'
 
 function Hero() {
     return (

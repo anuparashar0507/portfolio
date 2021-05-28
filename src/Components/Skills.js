@@ -34,7 +34,7 @@ Tools: Visual Studio Code, Cmder, Git, Github.</p>
                         <span className="float-right">80%</span>
                     </div>
                     <div className="progress">
-                        <div className="progress-bar" role="progressbar" aria-valuemin="0" aria-valuemax="100" aria-valuenow="90">
+                        <div className="progress-bar" role="progressbar" aria-valuemin="0" aria-valuemax="100" aria-valuenow="80">
                         </div>
                     </div>
                     <div className="spacer" data-height="50"></div>
@@ -48,7 +48,7 @@ Tools: Visual Studio Code, Cmder, Git, Github.</p>
                         <span className="float-right">85%</span>
                     </div>
                     <div className="progress">
-                        <div className="progress-bar" role="progressbar" aria-valuemin="0" aria-valuemax="100" aria-valuenow="60">
+                        <div className="progress-bar" role="progressbar" aria-valuemin="0" aria-valuemax="100" aria-valuenow="85">
                         </div>
                     </div>
                     <div className="spacer d-md-none d-lg-none" data-height="50"></div>
