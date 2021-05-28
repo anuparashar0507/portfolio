@@ -12,7 +12,7 @@ function About() {
 				</div>
 				<div className="col-md-9">
 					<h2 className="mt-4 mt-md-0 mb-4">Hello,</h2>
-					<p className="mb-0">I am Anupam Parashar, web developer from Bhopal, India. I'm a detailed-oriented, responsible, and committed engineer, with a get-it-done, on-time, and high-quality product spirit, and an understanding of defining requirements, designing, implementing, testing, and delivering complex web applications using a variety of programming languages and technologies.</p>
+					<p className="mb-0">I am Anupam Parashar, web developer from Bhopal, India. I'm a detail-oriented, responsible, and committed engineer, with a get-it-done, on-time, and high-quality product spirit, and an understanding of defining requirements, designing, implementing, testing, and delivering complex web applications using a variety of programming languages and technologies.</p>
 					<div className="row my-4">
 						<div className="col-md-6">
 							<p className="mb-2">Name: <span className="text-dark">Anupam Parashar</span></p>

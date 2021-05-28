@@ -19,7 +19,7 @@ function Header() {
 					<li><a href="#about"><i className="icon-user"></i>About</a></li>
 					<li><a href="#resume"><i className="icon-graduation"></i>Resume</a></li>
 					<li><a href="#clients"><i className="icon-bulb"></i>Certificates</a></li>
-					<li><a href="#works"><i className="icon-grid"></i>Works</a></li>
+					<li><a href="#works"><i className="icon-grid"></i>Portfolio</a></li>
 					<li><a href="#contact"><i className="icon-phone"></i>Contact</a></li>
 					
 				</ul>
